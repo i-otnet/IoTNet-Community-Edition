@@ -13,6 +13,10 @@ Live sites
 - Production: https://i-ot.net/
 - Development / v2 (demo): https://app.iotunnel.my.id
 
+Project background
+
+- Engineering case study: https://farismnrr.com/projects/iotnet
+
 Quick start (for developers)
 
 1. Install dependencies:
